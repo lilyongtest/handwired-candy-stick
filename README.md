@@ -30,6 +30,7 @@
 
 
 ## Layout
+<img width="776" height="76" alt="keyboard-layout (3)" src="https://github.com/user-attachments/assets/1ea68be6-1cf3-4dc1-b5cf-d1fddb018c38" />
 
 
 
